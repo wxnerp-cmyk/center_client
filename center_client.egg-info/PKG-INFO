@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: center-client
+Version: 1.0.0
+Summary: 微服务注册客户端 - 自动注册、心跳、健康检查
+Requires-Python: >=3.8

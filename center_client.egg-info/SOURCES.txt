@@ -1,0 +1,7 @@
+setup.py
+center_client/__init__.py
+center_client.egg-info/PKG-INFO
+center_client.egg-info/SOURCES.txt
+center_client.egg-info/dependency_links.txt
+center_client.egg-info/requires.txt
+center_client.egg-info/top_level.txt
